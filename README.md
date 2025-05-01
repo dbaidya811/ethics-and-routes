@@ -1,56 +1,110 @@
-# 🌐 Multi-Project Websites: Tech Ethics & Fastive Routes
+# 🌐 Web Projects Repository
 
-Welcome to the combined repository for **Tech Ethics** and **Fastive Routes** – two simple and responsive websites built with modern web technologies.
-
----
-
-## 🛠️ Technologies Used
-
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Tech+Ethics+%26+Fastive+Routes;HTML+%7C+CSS+%7C+Bootstrap;Open+for+Contributions+%F0%9F%91%8B" alt="Typing Animation">
+</div>
 
 ---
 
-## 📁 Project Structure
+## 📌 Projects
 
-```multi-project-websites/
-│
+### 1. Tech Ethics
+![Tech Ethics Preview](https://via.placeholder.com/800x400?text=Tech+Ethics+Screenshot)  
+A platform discussing ethical technology practices.  
+🔗 [Live Demo](#) | 📂 [Source Code](/tech-ethics)
+
+**Tech Stack**:  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" width="120">
+
+---
+
+### 2. Fastive Routes
+![Fastive Routes Preview](https://via.placeholder.com/800x400?text=Fastive+Routes+Screenshot)  
+A travel itinerary planning application.  
+🔗 [Live Demo](#) | 📂 [Source Code](/fastive-routes)
+
+**Tech Stack**:  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" width="120">
+
+---
+
+## 👥 Contributors
+
+### Thanks to these amazing contributors:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dbaidya811">
+        <img src="https://avatars.githubusercontent.com/dbaidya811" width="100" alt="Deep Baidya">
+        <br />
+        <sub><b>Deep Baidya</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prajitt">
+        <img src="https://avatars.githubusercontent.com/prajitt" width="100" alt="Prajit">
+        <br />
+        <sub><b>Prajit</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dip-sama">
+        <img src="https://avatars.githubusercontent.com/dip-sama" width="100" alt="Dip Sama">
+        <br />
+        <sub><b>Dip Sama</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ How to Contribute
+
+1. Fork this repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+---
+
+## 📊 Project Structure
+
+```
+web-projects-repo/
 ├── tech-ethics/
-│   ├── index.html
-│   ├── styles.css
-│   └── ...
-│
+│ ├── index.html
+│ ├── css/
+│ └── assets/
 ├── fastive-routes/
-│   ├── index.html
-│   ├── scripts.js
-│   └── ...
-│
+│ ├── index.html
+│ ├── css/
+│ └── assets/
 └── README.md
 ```
 
 ---
 
-## 🤝 Contributors
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dbaidya811&label=Repository+Views&color=blueviolet" alt="Profile Views">
+  <p>Made with ❤️ by Team Web Warriors</p>
+</div>
 
-Thanks to the following contributors for their collaboration and efforts:
+```javascript
+// Sample JS feature from projects
+function initMap() {
+  // Interactive map functionality for Fastive Routes
+  const map = new google.maps.Map(document.getElementById("map"), {
+    center: { lat: 22.5726, lng: 88.3639 },
+    zoom: 12,
+  });
+}
+```
+<!-- Buy Me a Coffee -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dbaidya811" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
 
-- 👤 [@dbaidya811](https://github.com/dbaidya811)
-- 👤 [@prajitt](https://github.com/prajitt)
-- 👤 [@dip-sama](https://github.com/dip-sama)
-
----
-
-## 🚀 Live Preview (Optional)
-
-> You can deploy both sites using GitHub Pages or any static site host like Netlify or Vercel.
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-> “The best way to predict the future is to create it.” – Peter Drucker
