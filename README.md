@@ -90,21 +90,3 @@ web-projects-repo/
   <img src="https://komarev.com/ghpvc/?username=dbaidya811&label=Repository+Views&color=blueviolet" alt="Profile Views">
   <p>Made with ❤️ by Team Web Warriors</p>
 </div>
-
-```javascript
-// Sample JS feature from projects
-function initMap() {
-  // Interactive map functionality for Fastive Routes
-  const map = new google.maps.Map(document.getElementById("map"), {
-    center: { lat: 22.5726, lng: 88.3639 },
-    zoom: 12,
-  });
-}
-```
-<!-- Buy Me a Coffee -->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/dbaidya811" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</p>
-
