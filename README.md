@@ -85,7 +85,12 @@ web-projects-repo/
 ```
 
 ---
-
+<div align="left" z-index="3">
+  <a href="https://www.buymeacoffee.com/dbaidya811e" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180">
+  </a>
+    <p>Help fuel my coding journey!</p>
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dbaidya811&label=Repository+Views&color=blueviolet" alt="Profile Views">
   <p>Made with ❤️ by Team Web Warriors</p>
